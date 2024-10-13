@@ -105,3 +105,8 @@ dist
 
 .DS_Store
 .vscode
+.idea
+/back-end/.idea
+/front-end/.idea
+/analysis/.idea
+/back-end/npm
